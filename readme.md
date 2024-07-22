@@ -9,7 +9,7 @@ The `ImageUnwrapper` library provides functionality to unwrap circular images in
 
 To use the `ImageUnwrapper` library, ensure that you have the following files:
 - `ImageUnwrapper.h`
-- `ImageUnwrapper.lib` (for static library) or `ImageUnwrapper.dll` and `ImageUnwrapper.lib` (for dynamic library)
+- `ImageUnwrapper.lib`
 
 ## Usage
 
